@@ -7,4 +7,4 @@ The application will contain the prediction and suggestions for application user
 - Train {on time, delayed}
 - Umbrella {required, not-required}
 - Appointment {miss, attend}
-- 
+
