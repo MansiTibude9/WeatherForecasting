@@ -7,6 +7,7 @@ The application will contain the prediction and suggestions for application user
 - Train {on time, delayed}
 - Umbrella {required, not-required}
 - Appointment {miss, attend}
+- Temperature: {cold, hot, sunny, rainy, humid, spring}
 
 Artificial Intelligence and algorithms will be build using python and in-built libraries for forecasting the weather.
 Features:
