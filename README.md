@@ -16,3 +16,4 @@ Features:
 - Prediction of accessories to bring with
 - Prediction of appointments on the basis of weather results
 - Prediction of status of train on the basis of weather forecasting
+- Factors - Date, Humidity, Pressure, Rain
